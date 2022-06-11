@@ -1,1 +1,1 @@
-# ml_project_traffic_sign_recognition
+This is a project where traffic signs are recognised using convalutional nural networks.The motive of the project is to prevent human errors during driving to prevent increasing number of accidents allowing automatic cars recognise traffic signs.More than 39000 images of 43 classes are fed into the model and a cnn of 12 layers are used to train the model. The model predicts the output with a accuracy of 95%.
